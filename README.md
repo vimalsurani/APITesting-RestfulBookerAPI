@@ -42,6 +42,8 @@ To generate detailed HTML reports, you can use the newman-reporter-htmlextra rep
 2. The HTML report will be generated in the current directory with a name like newman-run-report.html
 
 
+![image](https://github.com/user-attachments/assets/80e49180-8c5a-45a8-8a3d-966c8c15a174)
+
 
 
 
