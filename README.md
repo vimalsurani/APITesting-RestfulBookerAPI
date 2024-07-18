@@ -38,9 +38,9 @@ To generate detailed HTML reports, you can use the newman-reporter-htmlextra rep
 1. Run the following command to execute the tests and generate an HTML report:
 
    ```sh
-   newman run RestfulBooker.postman_collection.json -e RestfulBookerEnvironment.postman_environment.json -r htmlextra
+   newman run Restful-Booker.postman_collection.json -r cli,htmlextra
+   
 2. The HTML report will be generated in the current directory with a name like newman-run-report.html
-
 
 ![image](https://github.com/user-attachments/assets/80e49180-8c5a-45a8-8a3d-966c8c15a174)
 
